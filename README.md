@@ -7,9 +7,8 @@ This system allows staff to perform **CRUD operations** and manage service jobs 
 
 ## 🌐 Live Backend
 
-🔗 [https://bike-servicing-api-production.up.railway.app](https://bike-servicing-api-production.up.railway.app)  
-_(Replace this with your actual Railway/Render link if different)_
-
+🔗 [https://bike-service-api-six.vercel.app/](https://bike-service-api-six.vercel.app/)  
+ 
 ---
 
 ## ⚙️ Tech Stack
