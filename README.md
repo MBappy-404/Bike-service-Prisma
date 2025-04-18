@@ -41,3 +41,44 @@ UUID is used as the **primary key** for all tables.
    ```bash
    git clone https://github.com/your-username/bike-servicing-api.git
    cd bike-servicing-api
+
+## ✨ Key Features
+
+### 📁 Customer Management
+
+- Create, retrieve, update, and delete customers
+- Enforces unique **email** and **phone number** for each customer
+- Easily associate customers with their bikes
+
+---
+
+### 🛵 Bike Management
+
+- Add new bikes and link them to existing customers
+- Retrieve all bikes or individual bike details
+- Keep track of **bike models**, **brands**, and **registration numbers**
+
+---
+
+### 🔧 Service Management
+
+- Create a **new service job** for any registered bike
+- List all service records with filtering options
+- Mark services as **completed**
+- View specific service details by ID
+
+---
+
+### ⏳ Business Logic
+
+- Automatically **flag services** older than 7 days for review or follow-up
+- Useful for improving customer retention and after-sales service
+
+---
+
+### 🧾 Organized & Scalable
+
+- Built with **TypeScript** for safer, scalable development
+- Uses **Prisma ORM** for clean and robust database handling
+- UUIDs as primary keys ensure **unique and secure data management**
+
